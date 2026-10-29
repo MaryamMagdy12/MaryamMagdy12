@@ -8,6 +8,15 @@ What interests me most is the backend side of these applications — working wit
 
 I'm continuing to develop my software engineering skills
 
+## Tech Stack
+
+**Backend:** PHP, Laravel, REST APIs, Laravel Sanctum
+
+**Database:** MySQL, Eloquent ORM
+
+**Frontend:** JavaScript, React
+
+**Tools:** Git, GitHub, Postman
 
 ## Featured Projects
 
